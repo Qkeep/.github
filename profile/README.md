@@ -1,1 +1,1 @@
-Qkeep is open-source testing platform. We focus on integration tests and load tests.
+Qkeep is open-source testing tools. We focus on integration tests and load tests.
